@@ -1,0 +1,9 @@
+export const CLAIM_EMAIL = "email";
+export const CLAIM_GOVID = "govId";
+export const CLAIM_GOVNAME = "govName";
+export const CLAIM_GOVROLE = "govRole";
+export const STORAGE_AUTH = "authObject";
+export const STORAGE_LASTGOV = "lastGov";
+export const ROLE_SUPPORT = "1";
+export const ROLE_ADMIN = "2";
+export const ROLE_ALL = "All";
